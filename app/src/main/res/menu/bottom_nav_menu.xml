@@ -1,0 +1,19 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_links"
+        android:icon="@drawable/ic_mail"
+        android:title="Links" />
+    <item
+        android:id="@+id/navigation_courses"
+        android:icon="@drawable/ic_course"
+        android:title="Courses" />
+    <item
+        android:id="@+id/navigation_campaigns"
+        android:icon="@drawable/ic_campaigns"
+        android:title="Campaigns" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_generic"
+        android:title="Profile" />
+</menu>
